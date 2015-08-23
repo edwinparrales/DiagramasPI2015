@@ -1,7 +1,7 @@
 {
 	"_type": "Project",
 	"_id": "AAAAAAFF+h6SjaM2Hec=",
-	"name": "Untitled",
+	"name": "ProyectoIntegradoe2015",
 	"ownedElements": [
 		{
 			"_type": "UMLModel",
@@ -993,7 +993,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "-dniUsuario: Usuario",
+											"text": "-dniUsuario",
 											"horizontalAlignment": 0,
 											"verticalAlignment": 5
 										}
@@ -5244,9 +5244,7 @@
 							"visibility": "private",
 							"isStatic": false,
 							"isLeaf": false,
-							"type": {
-								"$ref": "AAAAAAFPTptD/oH0uj0="
-							},
+							"type": "",
 							"isReadOnly": false,
 							"isOrdered": false,
 							"isUnique": false,
@@ -5818,5 +5816,7 @@
 			],
 			"visibility": "public"
 		}
-	]
+	],
+	"author": "Eparrales",
+	"version": "v0"
 }
